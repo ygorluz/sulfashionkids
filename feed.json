@@ -11,6 +11,20 @@
     },
     "items": [
         {
+            "id": "https://sulfashionkids.com.br/teste/",
+            "url": "https://sulfashionkids.com.br/teste/",
+            "title": "teste",
+            "summary": "teste",
+            "content_html": "<p>teste</p>",
+            "author": {
+                "name": "Kelly Ralland"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-01-30T02:42:53+01:00",
+            "date_modified": "2026-01-30T02:42:53+01:00"
+        },
+        {
             "id": "https://sulfashionkids.com.br/como-criar-ambientes-envolventes-para-familias-e-criancas/",
             "url": "https://sulfashionkids.com.br/como-criar-ambientes-envolventes-para-familias-e-criancas/",
             "title": "Como criar ambientes envolventes para famílias e crianças",
@@ -22,8 +36,8 @@
             },
             "tags": [
             ],
-            "date_published": "2026-01-14T00:00:00+00:00",
-            "date_modified": "2026-01-14T00:00:00+00:00"
+            "date_published": "2026-01-14T01:00:00+01:00",
+            "date_modified": "2026-01-14T01:00:00+01:00"
         },
         {
             "id": "https://sulfashionkids.com.br/o-fenomeno-galinha-pintadinha-a-revolucao-das-musicas-infantis-educativas-no-youtube/",
@@ -36,8 +50,8 @@
             },
             "tags": [
             ],
-            "date_published": "2025-12-22T14:51:43+00:00",
-            "date_modified": "2026-01-05T02:08:59+00:00"
+            "date_published": "2025-12-22T15:51:43+01:00",
+            "date_modified": "2026-01-05T03:08:59+01:00"
         },
         {
             "id": "https://sulfashionkids.com.br/calendario-de-lotacao-dos-parques-disney-a-chave-para-um-planejamento-de-ferias-inteligente/",
@@ -51,8 +65,8 @@
             },
             "tags": [
             ],
-            "date_published": "2025-11-19T12:08:42+00:00",
-            "date_modified": "2026-01-05T02:09:02+00:00"
+            "date_published": "2025-11-19T13:08:42+01:00",
+            "date_modified": "2026-01-05T03:09:02+01:00"
         },
         {
             "id": "https://sulfashionkids.com.br/maquina-de-costura-yamata-para-costurar-suas-roupinhas-de-bebe/",
@@ -66,8 +80,8 @@
             },
             "tags": [
             ],
-            "date_published": "2025-11-04T11:55:19+00:00",
-            "date_modified": "2026-01-05T02:09:01+00:00"
+            "date_published": "2025-11-04T12:55:19+01:00",
+            "date_modified": "2026-01-05T03:09:01+01:00"
         },
         {
             "id": "https://sulfashionkids.com.br/brinquedo-para-o-bebe-guia-completo-para-cada-fase/",
@@ -81,8 +95,8 @@
             },
             "tags": [
             ],
-            "date_published": "2025-11-03T13:56:31+00:00",
-            "date_modified": "2026-01-05T02:09:02+00:00"
+            "date_published": "2025-11-03T14:56:31+01:00",
+            "date_modified": "2026-01-05T03:09:02+01:00"
         },
         {
             "id": "https://sulfashionkids.com.br/checklist-de-compras-para-a-chegada-do-bebe-do-carrinho-aos-brinquedos/",
@@ -96,8 +110,8 @@
             },
             "tags": [
             ],
-            "date_published": "2025-10-07T00:51:00+00:00",
-            "date_modified": "2026-01-05T02:09:01+00:00"
+            "date_published": "2025-10-07T02:51:00+02:00",
+            "date_modified": "2026-01-05T03:09:01+01:00"
         },
         {
             "id": "https://sulfashionkids.com.br/amaostra-gratis-para-bebe/",
@@ -111,8 +125,8 @@
             },
             "tags": [
             ],
-            "date_published": "2025-08-19T03:47:00+00:00",
-            "date_modified": "2026-01-05T02:08:59+00:00"
+            "date_published": "2025-08-19T05:47:00+02:00",
+            "date_modified": "2026-01-05T03:08:59+01:00"
         },
         {
             "id": "https://sulfashionkids.com.br/a-importancia-do-plano-de-saude-para-crianca-protecao-e-tranquilidade-para-toda-a-familia/",
@@ -126,8 +140,8 @@
             },
             "tags": [
             ],
-            "date_published": "2025-08-19T00:48:00+00:00",
-            "date_modified": "2026-01-05T02:09:01+00:00"
+            "date_published": "2025-08-19T02:48:00+02:00",
+            "date_modified": "2026-01-05T03:09:01+01:00"
         },
         {
             "id": "https://sulfashionkids.com.br/como-acostumar-o-bebe-no-cadeirao-de-alimentacao-guia-completo-para-pais/",
@@ -141,23 +155,8 @@
             },
             "tags": [
             ],
-            "date_published": "2025-08-10T00:37:00+00:00",
-            "date_modified": "2026-01-05T02:09:01+00:00"
-        },
-        {
-            "id": "https://sulfashionkids.com.br/diversao-e-estilo-nos-brinquedos-infantis/",
-            "url": "https://sulfashionkids.com.br/diversao-e-estilo-nos-brinquedos-infantis/",
-            "title": "Diversão e Estilo nos Brinquedos Infantis",
-            "summary": "Os brinquedos infantis sempre foram muito mais do que simples objetos de entretenimento. Eles são ferramentas poderosas para o desenvolvimento cognitivo, emocional e social das crianças. No entanto, nos últimos anos, os brinquedos ganharam um novo papel: o de expressar estilo e personalidade. Vamos explorar&hellip;",
-            "content_html": "<p><!-- wp:paragraph --></p>\n<p>Os brinquedos infantis sempre foram muito mais do que simples objetos de entretenimento. Eles são ferramentas poderosas para o desenvolvimento cognitivo, emocional e social das crianças. No entanto, nos últimos anos, os brinquedos ganharam um novo papel: o de expressar <strong>estilo e personalidade</strong>. Vamos explorar esse universo encantador e entender como diversão e estilo caminham juntos no mundo infantil.</p>\n<p>\n<!-- /wp:paragraph --></p>\n<p><!-- wp:separator --></p>\n<hr class=\"wp-block-separator has-alpha-channel-opacity\"/>\n<!-- /wp:separator --></p>\n<p><!-- wp:heading --></p>\n<h2 class=\"wp-block-heading\"><strong>Por que os Brinquedos São Tão Importantes?</strong></h2>\n<p>\n<!-- /wp:heading --></p>\n<p><!-- wp:paragraph --></p>\n<p>Os brinquedos não são apenas acessórios. Eles são verdadeiros \"professores disfarçados\" que ajudam no desenvolvimento motor, estimulam a criatividade e fortalecem os laços afetivos entre crianças e adultos.</p>\n<p>\n<!-- /wp:paragraph --></p>\n<p><!-- wp:heading {\"level\":3} --></p>\n<h3 class=\"wp-block-heading\"><strong>Benefícios dos Brinquedos no Desenvolvimento Infantil</strong></h3>\n<p>\n<!-- /wp:heading --></p>\n<p><!-- wp:list --></p>\n<ul class=\"wp-block-list\"><!-- wp:list-item --></p>\n<li><strong>Coordenação motora:</strong> montar, encaixar e manipular peças melhora os movimentos finos.</li>\n<p>\n<!-- /wp:list-item --></p>\n<p><!-- wp:list-item --></p>\n<li><strong>Imaginação ativa:</strong> brinquedos como bonecos e miniaturas incentivam o faz de conta.</li>\n<p>\n<!-- /wp:list-item --></p>\n<p><!-- wp:list-item --></p>\n<li><strong>Habilidades sociais:</strong> brincar em grupo ensina a compartilhar e a respeitar regras.</li>\n<p>\n<!-- /wp:list-item --></p>\n<p><!-- wp:list-item --></p>\n<li><strong>Raciocínio lógico:</strong> jogos de tabuleiro e quebra-cabeças estimulam o cérebro.</li>\n<p>\n<!-- /wp:list-item --></ul>\n<p>\n<!-- /wp:list --></p>\n<p><!-- wp:separator --></p>\n<hr class=\"wp-block-separator has-alpha-channel-opacity\"/>\n<!-- /wp:separator --></p>\n<p><!-- wp:heading --></p>\n<h2 class=\"wp-block-heading\"><strong>O Novo Conceito de Estilo nos Brinquedos</strong></h2>\n<p>\n<!-- /wp:heading --></p>\n<p><!-- wp:paragraph --></p>\n<p>Hoje em dia, os brinquedos também refletem personalidade e moda. Não é raro ver crianças escolhendo bonecos, carrinhos ou pelúcias que combinam com seu jeito de ser. <strong>Estilo e diversão se misturam</strong>, criando experiências únicas.</p>\n<p>\n<!-- /wp:paragraph --></p>\n<p><!-- wp:heading {\"level\":3} --></p>\n<h3 class=\"wp-block-heading\"><strong>Brinquedos Inspirados em Tendências</strong></h3>\n<p>\n<!-- /wp:heading --></p>\n<p><!-- wp:list --></p>\n<ul class=\"wp-block-list\"><!-- wp:list-item --></p>\n<li><strong>Brinquedos colecionáveis:</strong> miniaturas de personagens famosos e veículos.</li>\n<p>\n<!-- /wp:list-item --></p>\n<p><!-- wp:list-item --></p>\n<li><strong>Bonecas fashion:</strong> roupas trocáveis e acessórios da moda.</li>\n<p>\n<!-- /wp:list-item --></p>\n<p><!-- wp:list-item --></p>\n<li><strong>Carrinhos personalizados:</strong> inspirados em carros reais ou clássicos.</li>\n<p>\n<!-- /wp:list-item --></ul>\n<p>\n<!-- /wp:list --></p>\n<p><!-- wp:separator --></p>\n<hr class=\"wp-block-separator has-alpha-channel-opacity\"/>\n<!-- /wp:separator --></p>\n<p><!-- wp:heading --></p>\n<h2 class=\"wp-block-heading\"><strong>Brinquedos que Contam Histórias</strong></h2>\n<p>\n<!-- /wp:heading --></p>\n<p><!-- wp:paragraph --></p>\n<p>Você já reparou como alguns brinquedos parecem \"falar\" com a criança? Miniaturas de carros, aviões e ônibus, por exemplo, inspiram aventuras e viagens imaginárias, estimulando narrativas criativas.</p>\n<p>\n<!-- /wp:paragraph --></p>\n<p><!-- wp:separator --></p>\n<hr class=\"wp-block-separator has-alpha-channel-opacity\"/>\n<!-- /wp:separator --></p>\n<p><!-- wp:heading --></p>\n<h2 class=\"wp-block-heading\"><strong>Colecionáveis: Uma Paixão Que Começa na Infância</strong></h2>\n<p>\n<!-- /wp:heading --></p>\n<p><!-- wp:paragraph --></p>\n<p>Um dos segmentos que mais cresce são os brinquedos colecionáveis. Além de divertirem, eles se tornam itens de coleção e até objetos decorativos.</p>\n<p>\n<!-- /wp:paragraph --></p>\n<p><!-- wp:heading {\"level\":3} --></p>\n<h3 class=\"wp-block-heading\"><strong>Miniaturas Que Encantam</strong></h3>\n<p>\n<!-- /wp:heading --></p>\n<p><!-- wp:paragraph --></p>\n<p>No universo dos colecionadores, as miniaturas de veículos são um grande sucesso. Entre elas, destaca-se a <strong><a class=\"\" href=\"https://sambabusminiaturas.com.br/miniatura-de-onibus-rodoviario/\">miniatura de ônibus rodoviário</a></strong>, que conquista crianças e adultos pela riqueza de detalhes e realismo. Esses brinquedos, além de estimular a imaginação, despertam o interesse por viagens e histórias rodoviárias.</p>\n<p>\n<!-- /wp:paragraph --></p>\n<p><!-- wp:separator --></p>\n<hr class=\"wp-block-separator has-alpha-channel-opacity\"/>\n<!-- /wp:separator --></p>\n<p><!-- wp:heading --></p>\n<h2 class=\"wp-block-heading\"><strong>Brinquedos Educativos e com Estilo</strong></h2>\n<p>\n<!-- /wp:heading --></p>\n<p><!-- wp:paragraph --></p>\n<p>Não é porque um brinquedo é educativo que ele precisa ser sem graça. Atualmente, há diversos modelos que aliam aprendizado e visual moderno.</p>\n<p>\n<!-- /wp:paragraph --></p>\n<p><!-- wp:list --></p>\n<ul class=\"wp-block-list\"><!-- wp:list-item --></p>\n<li><strong>Blocos de montar coloridos e temáticos</strong></li>\n<p>\n<!-- /wp:list-item --></p>\n<p><!-- wp:list-item --></p>\n<li><strong>Jogos de tabuleiro com design inovador</strong></li>\n<p>\n<!-- /wp:list-item --></p>\n<p><!-- wp:list-item --></p>\n<li><strong>Kits de ciência com embalagens interativas</strong></li>\n<p>\n<!-- /wp:list-item --></ul>\n<p>\n<!-- /wp:list --></p>\n<p><!-- wp:separator --></p>\n<hr class=\"wp-block-separator has-alpha-channel-opacity\"/>\n<!-- /wp:separator --></p>\n<p><!-- wp:heading --></p>\n<h2 class=\"wp-block-heading\"><strong>Tecnologia e Estilo: O Futuro dos Brinquedos</strong></h2>\n<p>\n<!-- /wp:heading --></p>\n<p><!-- wp:paragraph --></p>\n<p>Os brinquedos tecnológicos ganharam o coração das crianças. Robôs, drones e jogos interativos unem aprendizado, diversão e um visual futurista.</p>\n<p>\n<!-- /wp:paragraph --></p>\n<p><!-- wp:heading {\"level\":3} --></p>\n<h3 class=\"wp-block-heading\"><strong>Por Que as Crianças Adoram Brinquedos Tecnológicos?</strong></h3>\n<p>\n<!-- /wp:heading --></p>\n<p><!-- wp:list --></p>\n<ul class=\"wp-block-list\"><!-- wp:list-item --></p>\n<li><strong>Interatividade:</strong> respondem aos comandos e interagem com a criança.</li>\n<p>\n<!-- /wp:list-item --></p>\n<p><!-- wp:list-item --></p>\n<li><strong>Design moderno:</strong> cores vibrantes e formatos arrojados.</li>\n<p>\n<!-- /wp:list-item --></p>\n<p><!-- wp:list-item --></p>\n<li><strong>Aprendizado digital:</strong> muitos ensinam programação e lógica.</li>\n<p>\n<!-- /wp:list-item --></ul>\n<p>\n<!-- /wp:list --></p>\n<p><!-- wp:separator --></p>\n<hr class=\"wp-block-separator has-alpha-channel-opacity\"/>\n<!-- /wp:separator --></p>\n<p><!-- wp:heading --></p>\n<h2 class=\"wp-block-heading\"><strong>Como Escolher Brinquedos com Diversão e Estilo?</strong></h2>\n<p>\n<!-- /wp:heading --></p>\n<p><!-- wp:paragraph --></p>\n<p>A escolha do brinquedo perfeito deve considerar:</p>\n<p>\n<!-- /wp:paragraph --></p>\n<p><!-- wp:list {\"ordered\":true} --></p>\n<ol class=\"wp-block-list\"><!-- wp:list-item --></p>\n<li><strong>Idade da criança</strong> – segurança e adequação às habilidades.</li>\n<p>\n<!-- /wp:list-item --></p>\n<p><!-- wp:list-item --></p>\n<li><strong>Interesses pessoais</strong> – escolha algo que combine com a personalidade dela.</li>\n<p>\n<!-- /wp:list-item --></p>\n<p><!-- wp:list-item --></p>\n<li><strong>Qualidade e durabilidade</strong> – brinquedos bem feitos duram mais e são mais seguros.</li>\n<p>\n<!-- /wp:list-item --></ol>\n<p>\n<!-- /wp:list --></p>\n<p><!-- wp:separator --></p>\n<hr class=\"wp-block-separator has-alpha-channel-opacity\"/>\n<!-- /wp:separator --></p>\n<p><!-- wp:heading --></p>\n<h2 class=\"wp-block-heading\"><strong>Estilo Que Transforma o Ambiente Infantil</strong></h2>\n<p>\n<!-- /wp:heading --></p>\n<p><!-- wp:paragraph --></p>\n<p>Além de entreter, brinquedos bonitos e bem elaborados decoram quartos e espaços infantis, deixando o ambiente mais alegre e cheio de personalidade.</p>\n<p>\n<!-- /wp:paragraph --></p>\n<p><!-- wp:separator --></p>\n<hr class=\"wp-block-separator has-alpha-channel-opacity\"/>\n<!-- /wp:separator --></p>\n<p><!-- wp:heading --></p>\n<h2 class=\"wp-block-heading\"><strong>Brinquedos que Estimulam a Criatividade com Estilo</strong></h2>\n<p>\n<!-- /wp:heading --></p>\n<p><!-- wp:paragraph --></p>\n<p>Brinquedos de arte, como kits de pintura e massinhas coloridas, são perfeitos para crianças que adoram colocar a imaginação em prática.</p>\n<p>\n<!-- /wp:paragraph --></p>\n<p><!-- wp:separator --></p>\n<hr class=\"wp-block-separator has-alpha-channel-opacity\"/>\n<!-- /wp:separator --></p>\n<p><!-- wp:heading --></p>\n<h2 class=\"wp-block-heading\"><strong>O Papel dos Pais na Escolha dos Brinquedos</strong></h2>\n<p>\n<!-- /wp:heading --></p>\n<p><!-- wp:paragraph --></p>\n<p>Os pais são grandes influenciadores no universo dos brinquedos. Optar por peças que unam aprendizado e estilo contribui para um crescimento saudável e divertido.</p>\n<p>\n<!-- /wp:paragraph --></p>\n<p><!-- wp:separator --></p>\n<hr class=\"wp-block-separator has-alpha-channel-opacity\"/>\n<!-- /wp:separator --></p>\n<p><!-- wp:heading --></p>\n<h2 class=\"wp-block-heading\"><strong>Por Que Brinquedos Estilosos Também São para Adultos?</strong></h2>\n<p>\n<!-- /wp:heading --></p>\n<p><!-- wp:paragraph --></p>\n<p>O colecionismo mostra que brinquedos não são apenas para crianças. Miniaturas e action figures, por exemplo, são objetos de desejo para muitos adultos.</p>\n<p>\n<!-- /wp:paragraph --></p>\n<p><!-- wp:separator --></p>\n<hr class=\"wp-block-separator has-alpha-channel-opacity\"/>\n<!-- /wp:separator --></p>\n<p><!-- wp:heading --></p>\n<h2 class=\"wp-block-heading\"><strong>Tendências do Mercado de Brinquedos</strong></h2>\n<p>\n<!-- /wp:heading --></p>\n<p><!-- wp:list --></p>\n<ul class=\"wp-block-list\"><!-- wp:list-item --></p>\n<li><strong>Brinquedos sustentáveis:</strong> feitos de materiais recicláveis.</li>\n<p>\n<!-- /wp:list-item --></p>\n<p><!-- wp:list-item --></p>\n<li><strong>Edição limitada de colecionáveis:</strong> valorizados por colecionadores.</li>\n<p>\n<!-- /wp:list-item --></p>\n<p><!-- wp:list-item --></p>\n<li><strong>Brinquedos inspirados em filmes e séries:</strong> sempre em alta.</li>\n<p>\n<!-- /wp:list-item --></ul>\n<p>\n<!-- /wp:list --></p>\n<p><!-- wp:separator --></p>\n<hr class=\"wp-block-separator has-alpha-channel-opacity\"/>\n<!-- /wp:separator --></p>\n<p><!-- wp:heading --></p>\n<h2 class=\"wp-block-heading\"><strong>Conclusão</strong></h2>\n<p>\n<!-- /wp:heading --></p>\n<p><!-- wp:paragraph --></p>\n<p>A união entre <strong>diversão e estilo nos brinquedos infantis</strong> transforma o ato de brincar em uma experiência completa: divertida, educativa e cheia de personalidade. Seja através de miniaturas detalhadas, bonecas fashion ou brinquedos tecnológicos, o importante é proporcionar momentos especiais que fiquem na memória da criança – e, por que não, dos adultos também.</p>\n<p>\n<!-- /wp:paragraph --></p>\n",
-            "image": "https://sulfashionkids.com.br/media/posts/20/O-Guia-Definitivo-de-Brinquedos-por-Idade-De-0-Meses-ate-10-Anos.jpg",
-            "author": {
-                "name": "Vendedor"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-08-03T00:33:00+00:00",
-            "date_modified": "2026-01-05T02:08:59+00:00"
+            "date_published": "2025-08-10T02:37:00+02:00",
+            "date_modified": "2026-01-05T03:09:01+01:00"
         }
     ]
 }
